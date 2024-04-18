@@ -1,5 +1,5 @@
 # karenwylee.github.io
 Karen Wing Yee Lee's Portfolio 
-Web developer
-9 Years experience
-PHP, HTML, CSS and JS
+<p>Web developer</p>
+<p>9 Years experience</p>
+<p>PHP, HTML, CSS and JS</p>
